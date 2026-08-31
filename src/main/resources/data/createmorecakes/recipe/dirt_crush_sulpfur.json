@@ -1,0 +1,29 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:acacia_sapling"
+    }
+  ],
+  "processing_time": 100,
+  "results": [
+    {
+      "count": 3,
+      "id": "minecraft:acacia_leaves"
+    },
+    {
+      "chance": 0.25,
+      "count": 1,
+      "id": "minecraft:apple"
+    },
+    {
+      "count": 3,
+      "id": "minecraft:stick"
+    },
+    {
+      "chance": 0.25,
+      "count": 1,
+      "id": "minecraft:stick"
+    }
+  ]
+}

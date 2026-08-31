@@ -1,0 +1,12 @@
+{
+  "itemGroup.createmorecakes": "Create: More Cakes",
+  "item.createmorecakes.blaze_milk_cake": "Milk Cake",
+
+  "createmorecakes.configuration.title": "Create: More Cakes Configs",
+  "createmorecakes.configuration.section.createmorecakes.common.toml": "Create: More Cakes Configs",
+  "createmorecakes.configuration.section.createmorecakes.common.toml.title": "Create: More Cakes Configs",
+  "createmorecakes.configuration.items": "Item List",
+  "createmorecakes.configuration.logDirtBlock": "Log Dirt Block",
+  "createmorecakes.configuration.magicNumberIntroduction": "Magic Number Text",
+  "createmorecakes.configuration.magicNumber": "Magic Number"
+}
